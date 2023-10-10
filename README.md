@@ -11,3 +11,6 @@ deployment uname and pass - elastic and xoQBcmkBTdDkYrvI2MepbXaJ
 Elastic account pass - YaM_MeR!@#$%^&*()
 
 ELK link: https://attack-simulation.kb.us-central1.gcp.cloud.es.io:9243/app/home#/
+
+CS link: https://falcon.us-2.crowdstrike.com/hosts/sensor-downloads
+
